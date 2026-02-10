@@ -1,7 +1,7 @@
-# Week 4 — Fundamentals: Introduction to Object-Oriented Programming (Classes & Objects)
+# Week 4 — Fundamentals: Loops
 
 Overview
-Week 4 contains tasks that introduce classes and object-oriented design. Several files include "class version" variants that demonstrate variants of codes done for the tasks in class.
+Week 4 contains tasks that introduce for and while loops. 
 
 Included files
 - Week 4/#A4 TASK 4 class version.py
