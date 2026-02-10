@@ -5,7 +5,7 @@
 
 | Week          | Topic |
 | ------------- | ------------- |
-| Week1  | [Introduction to Programming: Variables](https://github.com/MHamzaS45/Programming-Fundamentals-Python/tree/main/Week1) |
+| Week1  | [Introduction to Programming](https://github.com/MHamzaS45/Programming-Fundamentals-Python/tree/main/Week1) |
 | Week 2 | [Variables](https://github.com/MHamzaS45/Programming-Fundamentals-Python/tree/main/Week2)  |
 | Week 3 | [Conditionals ](https://github.com/MHamzaS45/Programming-Fundamentals-Python/tree/main/Week3)|
 | Week 4 | [Loops](https://github.com/MHamzaS45/Programming-Fundamentals-Python/tree/main/Week%204)|
