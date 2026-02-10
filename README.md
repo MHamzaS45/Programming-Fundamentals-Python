@@ -1,5 +1,5 @@
 # Programming Fundamentals Python
--
+
 Listed are all tasks completed and passed fully as part of my university studies.
 
 ## Content
