@@ -1,6 +1,6 @@
 # Programming Fundamentals Python
 
-Listed are all tasks completed and passed fully as part of my university studies.
+Listed are all tasks completed and passed fully as part of my university studies. Tasks done in each week correspond to the subtopic of Programming, which they were assigned for
 
 ## Content
 
@@ -25,7 +25,7 @@ Designed and developed a minesweeper game in Python.
 
 ## [Messages from The Four Emperors](https://github.com/MHamzaS45/Programming-Fundamentals-Python/tree/bd4748b99ba1498dded22e0999ad15facbbc6e81/Week%206/Messages%20from%20the%20Four%20Emperors%20%5BFEATURED%20PROJECT%5D)
 
-A text adventure game developed in Python, complete with autosave functions and a narrative. More details in the README file
+A text based adventure game developed in Python, complete with autosave functions and a narrative. More details in the README file
 
 ## [ROCK PAPER SCISSORS](https://github.com/MHamzaS45/Programming-Fundamentals-Python/blob/main/Week%207/A7%20Task%206.py)
 
