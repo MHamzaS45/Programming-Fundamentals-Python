@@ -1,4 +1,4 @@
-# Programming Fundamentals Python
+# Programming Fundamentals with Python
 
 Listed are all tasks completed and passed fully as part of my university studies. Tasks done in each week correspond to the subtopic of Programming, which they were assigned for
 
